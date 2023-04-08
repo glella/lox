@@ -1,2 +1,2 @@
 # lox
-Lox Language - in Java. Interpreted and Bytecode compiled versions from Crafting Interpreters book
+Lox Language - Tree-walk Interpreter in Java and Bytecode compiler in C versions from awesome Crafting Interpreters book 
