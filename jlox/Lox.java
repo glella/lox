@@ -1,5 +1,9 @@
 package jlox;
 
+// compile:         javac -cp . jlox/*.java
+// run repl:        java jlox.Lox          
+// run with file:   java jlox.Lox hello.lox
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
